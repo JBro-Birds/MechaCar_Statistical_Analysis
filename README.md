@@ -17,11 +17,11 @@ The p-value and r-squared value for the linear regression is as follows:
 
 ![p_value_r_squared](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/p_value_r_squared.png)
 
-*  Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?  Based on the assumption that .05 level of significance is statistically significant the vehicle lenght (2.60e-12 coefficient) and ground clearance (5.21e-08 coefficient) variables provide a non-random amount of variance to the mpg values in the dataset.  The other three variables have coefficients > 0.5.
+*  Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?  Based on the assumption that .05 level of significance is statistically significant the vehicle lenght (2.60e-12 coefficient) and ground clearance (5.21e-08 coefficient) variables provide a non-random amount of variance to the mpg values in the dataset.  The other three variables have coefficients > 0.05.
 
-* Is the slope of the linear model considered to be zero? Why or why not?
+* Is the slope of the linear model considered to be zero? Why or why not?  With the p-value of 5.35e-11 being < 0.05 the slope is non-zero.
 
-* Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+* Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?  The linear model predicts mpg of MechaCar prototypes effectively since the multiple R-squared value is 0.71.  Based on the Pearson correlation coefficient reference table r >= 0.7 signals a "strong" correlation.
 
 ## Summary Statistics on Suspension Coils
 
