@@ -48,6 +48,4 @@ T-test for Lot 3:
 * The t-test results for all vehicles and lots 1 & 2 show that these are not statistically different since each has a p-value > 0.05.  Lot 3 however is statistically different since the p-value of 0.04 > 0.05.
 
 ## Study Design: MechaCar vs Competition
-
-## Summary
-
+Today's political environment and climate change factors are creating high volatility in fuel cost.  This in turn has a large percentage of automobile consumers focused on mpg when purchasing new vehicles.  Consumer purchusing preference also varies based on needed vehicle size.  The metrics to test to see how MechaCar performs against the competition is city mpg and highway mpg by vehicle size class.  The data needed by vehicle type to perform the analysis would be city mpg, highway mpg, vehicle dimensions (length, width, height, clearance), vehicle weight and vehicle cargo load.  Two multiple linear regressions should be performed; one for city mpg and one for highway mpg.  The dependent variable would be the mpg and the other data attributes would be the independent variables.  The multiple linear regression results would assist management and development teams in producing vehicles meeting the desired specifications of the consumer.      
