@@ -7,7 +7,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 The purpose of the project is to perform statistical analysis in RStudio and design a statistical study to compare vechicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, including linear regression, summary statistics and t-tests, a summary interpretation of the findings will be provided.
 
 ## Linear Regression to Predict MPG
-The data set provided contains 50 vehicle prototypes with 6 variables (vehicle length, vehicle weight, spoiler angle, ground clearance, all-wheel-drive assignment, miles per gallon).
+The dataset provided contains 50 vehicle prototypes with 6 variables (vehicle length, vehicle weight, spoiler angle, ground clearance, all-wheel-drive assignment, miles per gallon).
 
 The linear regression is as follows:
 
@@ -17,7 +17,7 @@ The p-value and r-squared value for the linear regression is as follows:
 
 ![p_value_r_squared](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/p_value_r_squared.png)
 
-*  Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+*  Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?  Based on the assumption that .05 level of significance is statistically significant the vehicle lenght (2.60e-12 coefficient) and ground clearance (5.21e-08 coefficient) variables provide a non-random amount of variance to the mpg values in the dataset.  The other three variables have coefficients > 0.5.
 
 * Is the slope of the linear model considered to be zero? Why or why not?
 
