@@ -45,7 +45,7 @@ T-test for Lot 2:
 T-test for Lot 3:
 ![t_test_lot3](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/t_test_lot3.png)
 
-
+* The t-test results for all vehicles and lots 1 & 2 show that these are not statistically different since each has a p-value > 0.05.  Lot 3 however is statistically different since the p-value of 0.04 > 0.05.
 
 ## Study Design: MechaCar vs Competition
 
