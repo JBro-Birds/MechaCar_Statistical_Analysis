@@ -24,12 +24,13 @@ The p-value and r-squared value for the linear regression is as follows:
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?  The linear model predicts mpg of MechaCar prototypes effectively since the multiple R-squared value is 0.71.  Based on the Pearson correlation coefficient reference table r >= 0.7 signals a "strong" correlation.
 
 ## Summary Statistics on Suspension Coils
+The dataset provided contains 150 vehicle IDs with corresponding PSI; the vehicle IDs are divided among 3 lots.
 
 ![total_summary](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/total_summary.png)
 
 ![lot_summary](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/lot_summary.png)
 
-* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?  The total for all manufacturing lots meets the specification with a variance of 62.3, well under the specified 100 pounds per square ince.  Analyzing the three individual lots tells a diferent story.  Lots 1 (0.98 variance) and 2 (7.47 variance) meet the specification while lot 3 (170.29 variance) is well above the specified value.
 
 ## T-Tests on Suspension Coils
 
