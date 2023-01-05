@@ -7,7 +7,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 The purpose of the project is to perform statistical analysis in RStudio and design a statistical study to compare vechicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, including linear regression, summary statistics and t-tests, a summary interpretation of the findings will be provided.
 
 ## Linear Regression to Predict MPG
-The data set provided contains 50 vechicle prototypes with 6 variables (vehicle length, vehicle weight, spoiler angle, ground clearance, all-wheel-drive assignment, miles per gallon).
+The data set provided contains 50 vehicle prototypes with 6 variables (vehicle length, vehicle weight, spoiler angle, ground clearance, all-wheel-drive assignment, miles per gallon).
 
 The linear regression is as follows:
 
