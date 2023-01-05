@@ -11,6 +11,10 @@ The linear regression is as follows:
 
 ![line_regression](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/line_regression.png)
 
+The p-value and r-squared value for the linear regression is as follows:
+
+![p_value_r_squared](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/p_value_r_squared.png)
+
 *  
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
