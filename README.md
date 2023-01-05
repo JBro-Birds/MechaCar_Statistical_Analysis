@@ -11,6 +11,12 @@ The linear regression is as follows:
 
 ![line_regression](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/line_regression.png)
 
+Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
+Is the slope of the linear model considered to be zero? Why or why not?
+
+Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
 ## Study Design: MechaCar vs Competition
 
 ## Summary
