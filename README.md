@@ -36,13 +36,13 @@ The dataset provided contains 150 vehicle IDs with corresponding PSI; the vehicl
 T-test for all:
 ![t_test_lotAll](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/t_test_lotAll.png)
 
-T-test for Lot 1
+T-test for Lot 1:
 ![t_test_lot1](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/t_test_lot1.png)
 
-T-test for Lot 2
+T-test for Lot 2:
 ![t_test_lot2](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/t_test_lot2.png)
 
-T-test for Lot 3
+T-test for Lot 3:
 ![t_test_lot3](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/t_test_lot3.png)
 
 
