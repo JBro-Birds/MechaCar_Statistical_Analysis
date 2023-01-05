@@ -17,12 +17,29 @@ The p-value and r-squared value for the linear regression is as follows:
 
 ![p_value_r_squared](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/p_value_r_squared.png)
 
-*  
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+*  Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-Is the slope of the linear model considered to be zero? Why or why not?
+* Is the slope of the linear model considered to be zero? Why or why not?
 
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+* Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+## Summary Statistics on Suspension Coils
+
+![total_summary](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/total_summary.png)
+
+![lot_summary](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/lot_summary.png)
+
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+## T-Tests on Suspension Coils
+
+![t_test_lotAll](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/t_test_lotAll.png)
+
+![t_test_lot1](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/t_test_lot1.png)
+
+![t_test_lot2](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/t_test_lot2.png)
+
+![t_test_lot3](https://raw.githubusercontent.com/JBro-Birds/MechaCar_Statistical_Analysis/master/support_images_read.me/t_test_lot3.png)
 
 ## Study Design: MechaCar vs Competition
 
